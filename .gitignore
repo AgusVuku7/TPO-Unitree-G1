@@ -1,0 +1,23 @@
+# Gradle and Android
+.gradle/
+build/
+app/build/
+**/build/
+**/.gradle/
+**/local.properties
+.idea/
+**/.idea/
+*.iml
+**/*.iml
+
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+sdk_emulator/.venv/
+
+# OS and temp files
+.DS_Store
+Thumbs.db
+*.tmp
