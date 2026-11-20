@@ -69,7 +69,7 @@ El LED y los mensajes de voz que decide el recorrido se envían también al emul
 | [`docs/arquitectura.md`](docs/arquitectura.md) | Diagramas de flujo de datos y de topología, responsabilidades por capa y pruebas. |
 | [`docs/contrato-mensajes.md`](docs/contrato-mensajes.md) | Ejemplos JSON del contrato propuesto: telemetría, órdenes, respuestas y eventos, y su traducción al emulador de la cátedra. |
 | [`docs/evidencias/`](docs/evidencias/README.md) | Capturas de los cinco escenarios de prueba. |
-| [Releases](../../releases) | APK instalable y video de demostración (4:20, los cinco escenarios con subtítulos). |
+| [Releases](../../releases) | APK instalable y video de demostración (2:49, los cinco escenarios con subtítulos). |
 
 ## 🏗️ Arquitectura
 
